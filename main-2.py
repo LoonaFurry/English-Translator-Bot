@@ -38,5 +38,5 @@ async def on_message(message):
 
 # Get the bot token from an environment variable
 token = os.environ.get('DISCORD_BOT_TOKEN')
-bot.run('MTE1NjIyODIyOTc1Mzk5OTM5Mg.GfgZow.L4eBl72END5nEr1dLanZk5iVsnZg0QFVCKR3wc')
+bot.run('Your-Discord-Token-Here')
 
